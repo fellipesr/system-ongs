@@ -9,6 +9,7 @@ Tela Web:
 ![projeto-2](https://user-images.githubusercontent.com/55992886/89660371-a48c0800-d8a7-11ea-8fb0-c23d33c3ed08.jpg)
 
 Tela do App:
+
 ![projeto-4-2](https://user-images.githubusercontent.com/55992886/89661079-9a1e3e00-d8a8-11ea-8f13-4f5aa043618d.jpg)
 
 ![projeto-5-2](https://user-images.githubusercontent.com/55992886/89661088-9e4a5b80-d8a8-11ea-9b73-854675748a52.jpg)
