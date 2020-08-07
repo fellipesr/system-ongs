@@ -9,9 +9,9 @@ Tela Web:
 ![projeto-2](https://user-images.githubusercontent.com/55992886/89660371-a48c0800-d8a7-11ea-8fb0-c23d33c3ed08.jpg)
 
 Tela do App:
-![projeto-4](https://user-images.githubusercontent.com/55992886/89660509-d00ef280-d8a7-11ea-80de-eb1a3ccffe6b.jpg)
+![projeto-4-2](https://user-images.githubusercontent.com/55992886/89661079-9a1e3e00-d8a8-11ea-8f13-4f5aa043618d.jpg)
 
-![projeto-5](https://user-images.githubusercontent.com/55992886/89660520-d4d3a680-d8a7-11ea-87fc-3c15331c259b.jpg)
+![projeto-5-2](https://user-images.githubusercontent.com/55992886/89661088-9e4a5b80-d8a8-11ea-9b73-854675748a52.jpg)
 
-![projeto-6](https://user-images.githubusercontent.com/55992886/89660531-d8ffc400-d8a7-11ea-91ff-0ec85976c11d.jpg)
+![projeto-6-2](https://user-images.githubusercontent.com/55992886/89661109-a2767900-d8a8-11ea-8101-dca7ceca0d75.jpg)
 
